@@ -1,5 +1,3 @@
-[![npm version](https://badge.fury.io/js/vue-to-excel)](https://badge.fury.io/js/vue-to-excel)
-
 # Vue To Excel
 
 This is a simple vue component which takes your HTML table and exports it to Excel (specifically the `XLS format`) and also maintain your CSS styles. This is specifically for VueJS 2. There are still improvements that can be done to decrease the exported file size and to increase the styling options.
@@ -73,4 +71,4 @@ The available props are:
 
 ## License
 
-[MIT License](https://andreasonny.mit-license.org/2019) © Andrea SonnY
+The MIT License (MIT). Please see [License File](LICENSE) for more information.

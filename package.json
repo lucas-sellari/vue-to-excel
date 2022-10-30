@@ -1,6 +1,6 @@
 {
   "name": "vue-to-excel",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "main": "dist/vue-to-excel.umd.js",
   "module": "dist/vue-to-excel.esm.js",
   "unpkg": "dist/vue-to-excel.min.js",
@@ -22,5 +22,15 @@
     "rollup-plugin-vue": "^5.0.1",
     "vue": "^2.6.10",
     "vue-template-compiler": "^2.6.10"
-  }
+  },
+  "license": "MIT",
+  "keywords": [
+    "vue",
+    "component",
+    "excel",
+    "xls",
+    "keep-styles",
+    "export-excel",
+    "table"
+  ]
 }
