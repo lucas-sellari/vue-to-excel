@@ -23,6 +23,15 @@
     "vue": "^2.6.10",
     "vue-template-compiler": "^2.6.10"
   },
+  "author": "Lucas Sellari",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucas-sellari/vue-to-excel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lucas-sellari/vue-to-excel/issues"
+  },
+  "homepage": "https://github.com/lucas-sellari/vue-to-excel#readme",
   "license": "MIT",
   "keywords": [
     "vue",
